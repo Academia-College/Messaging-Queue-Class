@@ -10,7 +10,7 @@ app.use(cors());
 
 const upload = multer({ dest: 'uploads/' });
 
-const RABBITMQ_URL = 'amqps://chhmhspw:MOxcsavvfTNkTancEqFdnXzAo8J4SH1k@puffin.rmq2.cloudamqp.com/chhmhspw';
+const RABBITMQ_URL = 'amqps://zoosdhlt:z_0FO4vS9miKjNUpAn9ePbKi8Lyo-j-X@puffin.rmq2.cloudamqp.com/zoosdhlt';
 const QUEUE = 'image_download_queue';
 
 let channel;

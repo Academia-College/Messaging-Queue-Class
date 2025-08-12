@@ -7,7 +7,7 @@ import { fileURLToPath } from 'url';
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
 
-const RABBITMQ_URL = 'amqps://chhmhspw:MOxcsavvfTNkTancEqFdnXzAo8J4SH1k@puffin.rmq2.cloudamqp.com/chhmhspw';
+const RABBITMQ_URL = 'amqps://zoosdhlt:z_0FO4vS9miKjNUpAn9ePbKi8Lyo-j-X@puffin.rmq2.cloudamqp.com/zoosdhlt';
 const QUEUE = 'image_download_queue';
 const DOWNLOAD_DIR = path.join(__dirname, 'downloads');
 
